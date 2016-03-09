@@ -1,0 +1,21 @@
+{
+  "name": "hellokraken",
+  "description": "first krakenjs app",
+  "main": "index.js",
+  "author": "Ethan",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
